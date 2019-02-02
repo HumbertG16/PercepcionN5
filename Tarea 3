@@ -1,0 +1,13 @@
+//Cesar Humberto Gamez Porras 1635743
+//Percepcion N5
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(255);
+	stroke(255, 0, 0);
+	strokeWeight(20);
+	ellipse(200, 200, 150, 150);
+	line(150, 150, 250, 250);
+}
